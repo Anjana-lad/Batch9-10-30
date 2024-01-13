@@ -44,7 +44,7 @@ int main(){
          div(a,b);
     break; 
    default:
-   printf("Invalid choice");
+         printf("Invalid choice");
     break;
    }
 }
