@@ -22,7 +22,7 @@ rectangle::rectangle(){
 }
 int main(){
     rectangle rect1;
-    rectangle rect2(10,5);
+    rectangle rect2(4,5);
     cout<<"The area of default constructor is:"<<rect1.area()<<endl;
    cout<<"The area of parameterized constructor is:"<<rect2.area()<<endl;
 }

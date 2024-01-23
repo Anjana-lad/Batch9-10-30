@@ -27,7 +27,7 @@ int main(){
     p1.getdata(123);
     p1.data("John");
     p1.display();
-    p2.getdata(143);
+    p2.getdata(145);
     p2.data("Riya");
     p2.display();
 }

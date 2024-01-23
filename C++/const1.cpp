@@ -9,7 +9,7 @@ class points{
         singing=0;
         dance=5;
     }
-    int result(){  //member functions
+   int result(){   //member functions
         cout<<"Singing:"<<singing<<endl;
         cout<<"Dance:"<<dance<<endl;
     }

@@ -3,7 +3,7 @@
 using namespace std;
 class value{
    public:
-   int a,b;
+   int a,b; //data member
    public:
    value(int a1,int b1){  //parameterised constructor
    a=a1;
